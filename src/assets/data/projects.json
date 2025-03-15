@@ -1,0 +1,38 @@
+[
+  {
+    "name": "ShopSmart",
+    "description": "Engineered a scalable e-commerce platform using React and Node.js, integrating Firebase Authentication for secure access and Stripe API for seamless transactions. Implemented dynamic product listings, cart management, and order tracking. Worked in Agile teams, conducted peer code reviews, and ensured best coding practices.",
+    "github": "https://github.com/karmpatels/Capstone_ShopSmart",
+    "tags": ["React", "Node.js", "Firebase", "Stripe API", "Docker", "CI/CD", "Agile", "Marketplace"]
+  },
+  {
+    "name": "GBC Travel Group",
+    "description": "Designed a full-featured travel booking platform using ASP.NET Core MVC, enabling users to compare and book flights, hotels, and car rentals. Integrated Microsoft Identity for secure authentication, MySQL for data storage, and Azure for cloud deployment. Focused on providing a seamless UI/UX with interactive features.",
+    "github": "https://github.com/devgandhi100/Comp-2139",
+    "tags": ["ASP.NET Core", "C#", "Bootstrap", "JavaScript", "MySQL", "Azure", "Microsoft Identity", "CI/CD"]
+  },
+  {
+    "name": "Employee Management",
+    "description": "Built a robust employee management system with MERN stack, implementing JWT authentication and role-based access control. Developed RESTful APIs for employee records, payroll, and department assignments. The application is fully containerized with Docker and deployed using CI/CD pipelines on Vercel.",
+    "github": "https://github.com/devgandhi100/Comp3123_Assignment02",
+    "tags": ["MERN Stack", "MongoDB", "JWT Authentication", "Docker", "CI/CD", "Vercel"]
+  },
+  {
+    "name": "Inventory Management Spring Boot Backend Application",
+    "description": "Developed a scalable Inventory Management System using Spring Boot with microservices architecture, featuring real-time order booking, secure authentication, and event-driven messaging via Kafka. Implemented automated notifications and ensured high reliability with OAuth 2.0 authentication and containerized deployment.",
+    "github": "https://github.com/devgandhi100/COMP-3095_ICES",
+    "tags": ["Spring Boot", "Java", "Docker", "Kafka", "PostgreSQL", "Microservices", "OAuth 2.0"]
+  },
+  {
+    "name": "Weather-App-Using-ReactJS",
+    "description": "Developed a user-friendly weather application in ReactJS, fetching real-time data from OpenWeatherMap API. Features include location-based weather updates, a 5-day forecast, and an interactive search interface. Optimized for performance and mobile responsiveness to enhance user experience.",
+    "github": "https://github.com/devgandhi100/-101412432_comp3123_labtest2",
+    "tags": ["React", "OpenWeatherMap API", "REST API", "Real-time Data", "Node.js"]
+  },
+  {
+    "name": "Chat-Room",
+    "description": "Created a real-time chat application using Node.js, Express, and Socket.io, allowing users to join rooms, send messages, and receive live updates. Implemented user authentication, typing indicators, and MongoDB for persistent data storage. Focused on real-time messaging performance and security.",
+    "github": "https://github.com/devgandhi100/101412432_lab_test1_chat_app",
+    "tags": ["React", "Node.js", "Socket.io", "MongoDB", "Real-time Messaging"]
+  }
+]

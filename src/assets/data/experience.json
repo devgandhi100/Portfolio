@@ -1,0 +1,25 @@
+[
+  {
+    "role": "Volunteer",
+    "company": "George Brown College",
+    "period": "September 2023 -  December 2023",
+    "details": [
+      "Supported new students during orientation, providing guidance on college resources and campus navigation",
+      "Assisted in organizing workshops on resume building and interview preparation for peers in the Computer Programming program.",
+      "Facilitated peer-to-peer tutoring sessions focused on data structures, algorithms, and web development.",
+      "Managed event logistics for college technology meetups and hackathons, fostering networking opportunities for students."
+    ]
+  },
+  {
+    "role": "Software Developer",
+    "company": "Shopsmart",
+    "period": "September 2024 - Present",
+    "details": [
+      "Developed and maintained scalable web applications using React and Node.js.",
+"Integrated Firebase Authentication for secure user login and data management.",
+"Implemented Stripe Payment Gateway to process secure online transactions.",
+"Collaborated in an Agile environment, participating in daily stand-ups and sprint planning.",
+"Conducted code reviews ensuring adherence to coding standards and best practices."
+    ]
+  }
+]

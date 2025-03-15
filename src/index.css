@@ -1,0 +1,31 @@
+@import 'tailwindcss';
+
+html {
+  @apply m-0 h-full min-h-screen bg-zinc-900 text-zinc-300 font-serif;
+  overflow-x: hidden;
+}
+
+/* Text Selection */
+::selection {
+  background: rgba(39, 39, 42, 0.6); /* zinc-700 with opacity */
+  color: #d1d5db; /* zinc-200 */
+}
+
+/* Scrollbar Styling */
+.scrollable {
+  scrollbar-width: thin;
+  scrollbar-color: rgba(63, 63, 70, 0.6) transparent; /* zinc-700 with opacity */
+}
+
+.scrollable::-webkit-scrollbar {
+  width: 8px;
+}
+
+.scrollable::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.scrollable::-webkit-scrollbar-thumb {
+  background-color: rgba(82, 82, 91, 0.6); /* zinc-600 with opacity */
+  border-radius: 4px;
+}
