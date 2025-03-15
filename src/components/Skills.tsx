@@ -1,11 +1,11 @@
 import { 
   FaJs, FaPython, FaJava, FaPhp, FaDatabase, FaHtml5, FaCss3, 
-  FaReact, FaNodeJs, FaGit, FaCloud
+  FaReact, FaNodeJs, 
 } from 'react-icons/fa6';
 import { FaTools } from 'react-icons/fa';
 
 import { 
-  SiTypescript, SiNextdotjs, SiExpress, SiSpringboot, SiDotnet, SiTailwindcss, 
+  SiTypescript, SiNextdotjs, SiExpress, SiSpringboot, SiDotnet,  
   SiFirebase, SiMongodb, SiMysql, SiPostgresql, SiOracle, SiApachekafka
 } from 'react-icons/si';
 
